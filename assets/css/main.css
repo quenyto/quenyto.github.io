@@ -463,6 +463,13 @@ html,
             font-weight: 200;
             text-align: left;
         }
+
+        td {
+            font-size: 0.7em;
+            line-height: 1.2;
+            font-weight: 200;
+            text-align: left;
+        }
         
         h1,
         h2,
