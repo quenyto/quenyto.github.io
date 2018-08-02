@@ -623,7 +623,7 @@ ul.icons {
                 }
 
                 ul.labeled-icons li a {
-                    color: inherit;
+                    color: black;
                 }
 
                 ul.labeled-icons li h3 {
@@ -702,6 +702,3 @@ ul.icons {
             }
         }
 
-.fa-cog {
-  color: black;
-}
