@@ -478,7 +478,7 @@ html,
         h3,
         p,
         td {
-            color: #313F57;
+            color: #000000;
             font-family: 'Gill Sans';
             width: calc(100% + 0.2rem);
             line-height: 1.5;
@@ -703,5 +703,5 @@ ul.icons {
         }
 
 .icon {
-  color: #313f57;
+  color: #000000;
 }
