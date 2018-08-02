@@ -623,7 +623,7 @@ ul.icons {
                 }
 
                 ul.labeled-icons li a {
-                    color: black;
+                    color: #000000;
                 }
 
                 ul.labeled-icons li h3 {
@@ -702,3 +702,6 @@ ul.icons {
             }
         }
 
+.icon {
+  color: black;
+}
